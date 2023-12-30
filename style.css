@@ -1,0 +1,25 @@
+ .boxsh {
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3)
+ }
+
+ li:hover {
+     color: rgb(110, 110, 30);
+
+ }
+
+ ul {
+
+     cursor: pointer;
+     font-family: small-caps;
+
+ }
+
+ p {
+     cursor: pointer;
+ }
+
+ .efx:hover {
+     transition: transform 0.1s ease;
+     transform: scale(1.1);
+ }
+ 
